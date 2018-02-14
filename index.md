@@ -1,6 +1,6 @@
 ## Thomas Peck
 
-###_Software engenerring student at Brigham Young University-Idaho._
+Hello, I am Thomas, a software engenerring student at Brigham Young University-Idaho. I love math and coding. 
 
 ---
 

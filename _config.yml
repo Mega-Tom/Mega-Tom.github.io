@@ -1,3 +1,3 @@
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 title: Thomas Peck
 description: Student at Brigham Young University-Idaho
